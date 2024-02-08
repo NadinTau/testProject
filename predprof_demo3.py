@@ -10,7 +10,7 @@ def readFile(filename):
         tab.append([d0,d1,d2,d3,d4]) 
     return tab
 
-
+#kdfjgbhkiuwerh
 tab=readFile('students.csv')
 idproj=input()
 while idproj!="СТОП":
